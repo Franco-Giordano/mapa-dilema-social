@@ -34,6 +34,7 @@ function dibujarMapa(data) {
             shape: 'box',
             color: '#a3ddcb',
             margin: 20,
+            font: {size: 20},
             shadow: {
                 enabled: true
             },
