@@ -29,6 +29,11 @@
     </style>
 
     <link rel="stylesheet" href="css/theme.css"/>
+
+    <script type="module">
+        import { modalController } from 'https://cdn.jsdelivr.net/npm/@ionic/core@next/dist/ionic/index.esm.js';
+        window.modalController = modalController;
+    </script>
 </head>
 
 <body>
@@ -36,7 +41,7 @@
     <ion-header>
         <ion-toolbar color="primary">
             <ion-buttons collapse="true" slot="end">
-                <ion-button id="ver-info" title="Info del proyecto"><ion-icon slot="icon-only" name="information-circle"></ion-icon></ion-button>
+                <ion-button id="ver-info" onclick="clickeoInfo()" title="Info del proyecto"><ion-icon slot="icon-only" name="information-circle"></ion-icon></ion-button>
             </ion-buttons> 
             <ion-title>
                 Mapa del Dilema Social
@@ -50,6 +55,7 @@
 </ion-app>
 
 <script src="js/network-options.js"></script>
+<script src="js/network-utils.js"></script>
 <script src="js/main.js"></script>
 
 </body>
