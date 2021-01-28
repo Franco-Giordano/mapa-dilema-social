@@ -1,7 +1,7 @@
 // create an array with nodes
 var nodes = new vis.DataSet([{
         id: 1,
-        label: 'Node 1'
+        label: 'Mas Screentime'
     },
     {
         id: 2,
