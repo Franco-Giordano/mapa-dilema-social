@@ -46,6 +46,12 @@ const NETWORK_OPTIONS = {
         shape: 'box',
         shadow: {
             enabled: true
+        },
+        scaling: {
+            label: {
+                enabled: false,
+                drawThreshold: 0
+            }
         }
     },
     edges: {
@@ -55,11 +61,12 @@ const NETWORK_OPTIONS = {
     },
     physics: {
         barnesHut: {
-            gravitationalConstant: -40000
-        },
+            gravitationalConstant: -100000,
+            centralGravity: 0.5
+        }
     },
     layout: {
-        randomSeed: 1125
+        randomSeed: 1126
     },
     // manipulation: {enabled: true}
     // layout: {hierarchical: {enabled: true, direction: 'LR', levelSeparation: 400}},
