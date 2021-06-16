@@ -6,7 +6,7 @@ id,label,conexiones,descripcion,categoria
 5,"INTERESES DE TERCEROS: gobiernos/dictadores/corporaciones",1-14,,
 6,"CADA UNO EN SU REALIDAD",2,,
 7,"QUIEN GANARA?",,,
-8,"ANUNCIOS ULTRA TARGETEADOS",,,
+8,"ANUNCIOS ALTAMENTE TARGETEADOS",,,
 9,"EFECTO BURBUJA",6-16,,
 10,"ROMPEMOS LAS BASES SOBRE QUE ES VERDAD Y QUE NO LO ES",3,,
 11,"PRIVACIDAD DE LAS PERSONAS COMPROMETIDA",17,,CONSECUENCIA
@@ -26,13 +26,13 @@ id,label,conexiones,descripcion,categoria
 25,"MAS SCREEN TIME",26-29,"Todas las decisiones que guian a las redes sociales apuntan al mismo objetivo en comun: incrementar el tiempo de uso de los usuarios.",CENTRO
 26,"MIRA MAS ADS",29,,
 27,"BUSCAR NUEVO ESTIMULO",22,,CICLO
-28,"A/B TESTING",24,,
+28,"A/B TESTING",24,"La idea es iterar estos diseños con el metodo cientifico: realizar constantemente pequeños experimentos con segmentos de usuarios, a ver cual diseño genera mas tiempo en pantalla. Historias mas grandes? Mas notificaciones de amistades? Cambiar el color de mensajes no vistos? Basicamente, nos volvemos 'ratas de laboratorio', buscando la forma de que veamos mas anuncios.",
 29,"MODELO DE NEGOCIOS BASADO EN LA MANIPULACION",31,"Con estos nuevos modelos de negocios, la tecnologia dejo de ser una herramienta y paso a tener sus propios objetivos: incrementar nuestro uso en todo momento.",
 30,"RECIBIR LIKES",40,,CICLO
 31,"MANIPULAR USUARIOS, MINAR ATENCION, Y POLARIZAR SOCIEDAD SE VUELVE REDITUABLE!",,,
 32,"DISMINUCION DE RELACIONES ROMANTICAS",,,CONSECUENCIA
-33,"ATROFIA NUESTRA CAPACIDAD DE AFRONTAR: - soledad - temor - incomodidad - aburrimiento - ...",20-23-35-32-34,,
-34,"DISMINUCION DE LICENCIAS DE CONDUCIR",,,CONSECUENCIA
+33,"ATROFIA NUESTRA CAPACIDAD DE AFRONTAR: soledad, temor, incomodidad, aburrimiento, ...",20-23-35-32-34,,
+34,"MENOS LICENCIAS DE CONDUCIR EN ADOLESCENTES",,,CONSECUENCIA
 35,"INCREMENTO DE ANSIEDAD ADOLESCENTE",,,CONSECUENCIA
 36,"COMUNICACION PRIMARIA == COMUNICACION DIGITAL",33,,
 37,"NO EVOLUCIONAMOS PARA BUSCAR ACEPTACION DE MILES DE PERSONAS CADA 5 MINUTOS",33,,
